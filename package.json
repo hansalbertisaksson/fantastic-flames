@@ -1,0 +1,22 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansalbertisaksson/fantastic-flames.git"
+  },
+  "author": "Albert Cordenius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansalbertisaksson/fantastic-flames/issues"
+  },
+  "homepage": "https://github.com/hansalbertisaksson/fantastic-flames#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
